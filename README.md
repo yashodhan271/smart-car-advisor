@@ -13,6 +13,8 @@
 
 [Features](#-features) • [Demo](#-live-demo) • [Installation](#-installation) • [API Reference](#-api-reference) • [Tech Stack](#-tech-stack)
 
+🌟 **[View on GitHub](https://github.com/yashodhan271/smart-car-advisor)** 🌟
+
 </div>
 
 ## 🌟 Features
@@ -74,7 +76,7 @@ Visit our application at: `http://localhost:8080`
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/smart-car-advisor.git
+   git clone https://github.com/yashodhan271/smart-car-advisor.git
    cd smart-car-advisor
    ```
 
@@ -164,7 +166,7 @@ smart-car-advisor/
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+5. Open a Pull Request at [https://github.com/yashodhan271/smart-car-advisor/pulls](https://github.com/yashodhan271/smart-car-advisor/pulls)
 
 ## 📄 License
 
@@ -172,7 +174,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Yashodhan Advankar** - *Initial work* - [yashodhan271](https://github.com/yashodhan271)
 
 ## 🙏 Acknowledgments
 
@@ -180,13 +182,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - MongoDB Team
 - OpenAPI Initiative
 - Bootstrap Team
+- Pexels API Team for providing beautiful car images
 
 ---
 
 <div align="center">
   
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Yashodhan Advankar](https://github.com/yashodhan271)
 
-⭐ Star us on GitHub — it motivates us a lot!
+⭐ Star us on [GitHub](https://github.com/yashodhan271/smart-car-advisor) — it motivates us a lot!
 
 </div>
