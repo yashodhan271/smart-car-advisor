@@ -42,11 +42,7 @@
   </table>
 </div>
 
-## 🚀 Live Demo
 
-Visit our application at: `http://localhost:8080`
-
-![Application Screenshot](https://via.placeholder.com/800x400?text=Smart+Car+Advisor+Screenshot)
 
 ## 💻 Tech Stack
 
